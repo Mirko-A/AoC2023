@@ -1,3 +1,5 @@
+use std::collections::HashSet;
+
 const P1_INPUT_PATH: &'static str = "p1_input.txt";
 const P2_INPUT_PATH: &'static str = "p2_input.txt";
 const INPUT_PATH: &'static str = "input.txt";
